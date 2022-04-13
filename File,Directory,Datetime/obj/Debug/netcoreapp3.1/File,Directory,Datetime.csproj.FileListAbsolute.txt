@@ -1,0 +1,17 @@
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\File,Directory,Datetime.exe
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\File,Directory,Datetime.deps.json
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\File,Directory,Datetime.runtimeconfig.json
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\File,Directory,Datetime.runtimeconfig.dev.json
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\File,Directory,Datetime.dll
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\File,Directory,Datetime.pdb
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.AssemblyInfo.cs
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.csproj.CopyComplete
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.dll
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.pdb
+C:\Users\99470\source\repos\File,Directory,Datetime\File,Directory,Datetime\obj\Debug\netcoreapp3.1\File,Directory,Datetime.genruntimeconfig.cache
